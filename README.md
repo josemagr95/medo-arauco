@@ -9,4 +9,4 @@ Three.js JavaScript 3D library WebGL
 ## Autores
 
 José Manuel Gómez [@josemagr](http://instagram.com/josemagr).
-Benito González [@benitogonzalesh](http://instagram.com/benitogonzalesh).
+Benito González [@benitogonzalezh](https://www.instagram.com/benitogonzalezh/).

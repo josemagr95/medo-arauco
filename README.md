@@ -2,7 +2,7 @@
 
 Medo by Arauco Innovación es una plataforma web de personalización.
 
-# Medo Plataformas Web App
+## Medo Plataformas Web App
 
 Node.js Javascript runtime built on Chrome's V8 JavaScript engine. <br>
 Angular.js Javascript framework. <br>

@@ -1,17 +1,15 @@
----
-topic: Node.js Hello World
-languages:
-  - javascript
-  - nodejs
-products:
-  - Azure App Service
-  - Azure Web Apps
----
+# Medo by Arauco Innovación
 
-# Node.js Hello World
+Medo by Arauco Innovación es una plataforma web de personalización.
 
-This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
+## Medo Plataformas Web App
 
-# Contributing
+Node.js Javascript runtime built on Chrome's V8 JavaScript engine. <br>
+Angular.js Javascript framework. <br>
+Three.js JavaScript 3D library WebGL. <br>
+Microsoft Azure Web App Service. 
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Autores
+
+José Manuel Gómez [@josemagr](http://instagram.com/josemagr). <br>
+Benito González [@benitogonzalezh](https://www.instagram.com/benitogonzalezh/).

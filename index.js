@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const http = require('http');
 let fs = require('fs');
 
@@ -20,3 +21,6 @@ const port = process.env.PORT || 1337;
 server.listen(port);
 
 console.log("Server running at http://localhost:%d", port);
+=======
+
+>>>>>>> parent of ce7b7ab... Update index.js
